@@ -42,6 +42,6 @@ Output:
 ```
 =========================================================================================================================== warnings summary ============================================================================================================================
 example/test_file.py::test_dummy
-  /Users/mikailkocak/Development/pytest-deprecate/example/test_file.py:4: UserWarning: test_file:test_dummy is testing a deprecated feature: This feature will be removing in 2.7!
+  /Users/mikailkocak/Development/pytest-deprecate/example/test_file.py:4: UserWarning: test_file:test_dummy is testing a deprecated feature: This feature will be removing in 2.7
     @pytest.mark.deprecated("This feature will be removing in 2.7")
 ```

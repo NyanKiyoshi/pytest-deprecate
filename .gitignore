@@ -8,3 +8,4 @@ venv/
 *cov/
 dist/
 docs/_build/
+.DS*
