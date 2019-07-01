@@ -13,8 +13,8 @@
     </a>
   </p>
   <p>
-    <a href='https://github.com/NyanKiyoshi/pytest-deprecate/compare/v1.0.0...master'>
-      <img src='https://img.shields.io/github/commits-since/NyanKiyoshi/pytest-deprecate/v1.0.0.svg' alt='Commits since latest release' />
+    <a href='https://github.com/NyanKiyoshi/pytest-deprecate/compare/v1.0.2...master'>
+      <img src='https://img.shields.io/github/commits-since/NyanKiyoshi/pytest-deprecate/v1.0.2.svg' alt='Commits since latest release' />
     </a>
     <a href='https://pypi.python.org/pypi/pytest-deprecate'>
       <img src='https://img.shields.io/pypi/pyversions/pytest-deprecate.svg' alt='Supported versions' />
